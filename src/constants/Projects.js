@@ -4,14 +4,14 @@ export const projects = {
     projectList: [
         {
             name: "Project 1: Portfolio Builder",
-            description: "Create and cusotmize a portfolio in a jiffy for free.",
+            description: "Create and customize a portfolio in a jiffy for free.",
             link: "https://portfoliobuilder-prjt3-rtg.herokuapp.com/",
-            Technologies: "React, MongDB"
+            Technologies: "React, MongDB, Express, Nodejs"
         }, {
             name: "Project 2: GetMed",
             description: "Get medicine from your preferred pharmacy at your doorstep as soon as want.",
             link: "https://damp-badlands-68384.herokuapp.com/",
-            Technologies: "Javascript, MySql, APIs"
+            Technologies: "Javascript, MySql, APIs, Express, Nodejs"
         }, {
             name: "Project 3: Note Taker",
             description: "Enables user to write, save, and delete notes.",
@@ -31,7 +31,7 @@ export const projects = {
             name: "Project 6: Workday Scheduler",
             description: "Plan workday day and simplify the workflow.",
             link: "https://deej17.github.io/deej17-homework5/",
-            Technologies: "Javascript, IndexedDB"
+            Technologies: "Javascript, IndexedDB, Local Storage"
         }
     ]
 }
